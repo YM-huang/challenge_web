@@ -51,7 +51,8 @@ a:hover, a:focus, a:active {
 }
 
 #fh5co-header {
-  background: rgba(0,0,0,0.3);
+  background: url(../images/hero_bg.jpg) no-repeat;
+  /*background: rgba(0,0,0,0.3);*/
   background-size: cover;
   color: #ffffff;
   padding-top: 2em;
